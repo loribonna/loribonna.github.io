@@ -9,7 +9,7 @@ pip install -r docs/requirements.txt
 To build the docs, run:
 
 ```bash
-cd docs; make html
+make html
 ```
 
 **Note**: The building process produces a lot of warnings (_WARNING: duplicate label other useful arguments_). They are expected and can be ignored.

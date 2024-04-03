@@ -1,18 +1,20 @@
-.. Mammoth documentation master file, created by
-   sphinx-quickstart on Tue Dec  5 23:41:27 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 .. toctree::
    :maxdepth: 1 
    :glob:
    :hidden:
    :caption: Getting started:
 
-   getting_started/index.rst
-   getting_started/checkpoints.rst
-   getting_started/distributed_training.rst
-   getting_started/scripts.rst
-   Parseval <getting_started/parseval.rst>
+   Education <getting_started/education.rst>
+   Work experience <getting_started/work.rst>
+   Personal projects & hobbies <getting_started/personal_projects.rst>
+   Research projects <getting_started/research_projects.rst>
+
+.. toctree::
+   :maxdepth: 1 
+   :glob:
+   :hidden:
+   :caption: Papers:
+
+   Index <papers/index.rst>
 
 .. include:: base.rst

@@ -1,1 +1,1 @@
-Check out my [docs on GitHub](https://loribonna.github.io/loribonna/)!
+Check out my [page on GitHub](https://loribonna.github.io/loribonna/)!

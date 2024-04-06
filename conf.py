@@ -24,7 +24,7 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.intersphinx',
               #   'sphinx.ext.autosummary',
               'sphinx.ext.napoleon',
-              #   'sphinx.ext.viewcode',
+              'sphinx_design',
               'sphinx_tabs.tabs',
               'sphinx-prompt',
               'sphinx_toolbox',
@@ -76,19 +76,44 @@ pygments_style = 'friendly'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "furo"
+html_sidebars = {
+    "src/education": [],
+    "src/personal_projects": [],
+    "src/work": [],
+
+}
+
+html_theme = "pydata_sphinx_theme"
 html_title = "Lorenzo Bonicelli"
 html_static_path = ['_static']
-html_favicon = 'images/logo.png'
+html_favicon = 'assets/logo.png'
 
-# autosummary_generate = True
-# numpydoc_show_class_members = False
+github_url = 'https://github.com/loribonna'
+scholar_url = 'https://scholar.google.com/citations?user=ovXU58MAAAAJ&hl=en'
+linkedin_url = 'https://www.linkedin.com/in/lorenzo-bonicelli-360172139/'
 
-# Disable docstring inheritance
-# autodoc_inherit_docstrings = False
+icon_links = [
+    {
+        "name": "GitHub",
+        "url": github_url,
+        "icon": "fab fa-github",
+    },
+    {
+        "name": "LinkedIn",
+        "url": linkedin_url,
+        "icon": "fab fa-linkedin",
+    },
+    {
+        "name": "Google Scholar",
+        "url": scholar_url,
+        "icon": "fas fa-graduation-cap",
+    },
+]
 
-# Show type hints in the description
-# autodoc_typehints = "description"
+html_theme_options = {
+    "icon_links": icon_links,
+}
 
-# Add parameter types if the parameter is documented in the docstring
-# autodoc_typehints_description_target = "documented_params"
+html_context = {
+    "default_mode": "dark"
+}

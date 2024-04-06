@@ -1,20 +1,11 @@
 .. toctree::
    :maxdepth: 1 
-   :glob:
    :hidden:
    :caption: Getting started:
 
-   Education <getting_started/education.rst>
-   Work experience <getting_started/work.rst>
-   Personal projects & hobbies <getting_started/personal_projects.rst>
-   Research projects <getting_started/research_projects.rst>
-
-.. toctree::
-   :maxdepth: 1 
-   :glob:
-   :hidden:
-   :caption: Papers:
-
-   Index <papers/index.rst>
+   Education <src/education.rst>
+   Work experience <src/work.rst>
+   My research <src/research/index.rst>
+   Personal projects & hobbies <src/personal_projects.rst>
 
 .. include:: base.rst

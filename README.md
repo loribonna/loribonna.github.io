@@ -1,4 +1,4 @@
-Docs make use of [Sphinx](https://www.sphinx-doc.org/en/master/) and the [furo](https://pradyunsg.me/furo/quickstart/) template.
+Docs make use of [Sphinx](https://www.sphinx-doc.org/en/master/) and [pydata-sphinx-template](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html).
 
 Install the dependencies with:
 
@@ -11,5 +11,3 @@ To build the docs, run:
 ```bash
 make html
 ```
-
-**Note**: The building process produces a lot of warnings (_WARNING: duplicate label other useful arguments_). They are expected and can be ignored.

@@ -1,6 +1,25 @@
 Work experience
 ===============
 
+Postdoctoral researcher
+-----------------------
+
+.. grid::
+
+    .. grid-item-card::
+
+        - Jan 2024 - Current
+        - Study of methods of Deep Learning applied to Continual Learning problems in neural networks
+        - Founded by the project: *LEGO.AI: LEarning the Geometry of knOwledge in AI systems*
+        - `AImageLab <https://aimagelab.ing.unimore.it/>`_ -- University of Modena and Reggio Emilia, Modena, Italy
+
+This position started during my last year of Ph.D. studies and continued after the completion of my thesis. During this time, I have been working with several Ph.D. students and postdoctoral researchers on a wide range of works, including studies on Continual Learning and composition-based learning. 
+
+.. admonition:: Keywords
+
+    :bdg-primary:`Continual Learning` :bdg-primary:`Compositional Learning` :bdg-primary:`Model Merging`
+
+
 Junior research fellow
 -----------------------
 

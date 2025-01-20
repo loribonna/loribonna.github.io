@@ -8,12 +8,14 @@ Ph.D Student in :abbr:`ICT (Information and Communication Technology)`
 
     .. grid-item-card::
 
-        - Nov 2021 ‑ Nov 2024 (*expected*)
+        - Nov 2021 ‑ Nov 2024
         - **Main topic of research**: Few shot and zero shot continual learning
         - **Advisor**: `Simone Calderara <https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=38>`_
         - `AImageLab <https://aimagelab.ing.unimore.it/>`_ -- University of Modena and Reggio Emilia, Modena, Italy
 
-The research investigates integrating *Continual Learning* techniques into few-shot learning systems, training models with minimal examples from new classes. Traditional methods struggle with evolving data distributions. This study focuses on few-shot systems with dynamic data streams, using continual architectures alongside pseudolabelling and generative modeling.
+During the Ph.D., I focused on core problems in Continual Learning, such as training under complex and constrained scenarios. The overall goal was to develop techniques that can be applied to more realistic scenarios, such as those involving unreliable annotations (missing, biased, or noisy), streaming data that limits multiple epochs, privacy concerns that prevent the use of rehearsal strategies, and the use of modern pretrained Transformer-based architectures. 
+
+Besides this more theoretical research, I also worked on case studies that involve the analysis of satellite and remote-sensing data to forecast the presence and spread of zoonotic diseases (e.g., West Nile Virus).
 
 .. admonition:: Keywords
 

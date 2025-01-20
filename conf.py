@@ -85,7 +85,7 @@ html_sidebars = {
 
 html_theme = "pydata_sphinx_theme"
 html_title = "Lorenzo Bonicelli"
-html_static_path = ['_static']
+html_static_path = ['assets']
 html_favicon = 'assets/logo.png'
 
 github_url = 'https://github.com/loribonna'

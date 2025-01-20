@@ -9,6 +9,9 @@ Academic Research
    :caption: Papers
    :glob:
 
+   papers/aerabs
+   papers/cgil
+   papers/starprompt
    papers/lider
    papers/twf
    papers/xder
@@ -20,6 +23,10 @@ My research moslty focuses on continual learning, but my interests span other fi
 
 All my papers involving :bdg-secondary:`Continual Learning` are available via the `Mammoth library <https://aimagelab.github.io/mammoth/>`_, a PyTorch library for continual learning available on GitHub at `github.com/aimagelab/mammoth <https://github.com/aimagelab/mammoth>`_.
 
+
+- :ref:`paper-aerabs` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`
+- :ref:`paper-cgil` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`
+- :ref:`paper-starprompt` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`
 - :ref:`paper-lider` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`
 - :ref:`paper-twf` :bdg-secondary:`Continual Learning` :bdg-success:`ECCV`
 - :ref:`paper-xder` :bdg-secondary:`Continual Learning` :bdg-success:`IEEE TPAMI`

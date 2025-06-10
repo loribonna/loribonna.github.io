@@ -9,6 +9,7 @@ Academic Research
    :caption: Papers
    :glob:
 
+   papers/rebasin
    papers/secondorder
    papers/aerabs
    papers/cgil
@@ -24,7 +25,7 @@ My research moslty focuses on continual learning, but my interests span other fi
 
 All my papers involving :bdg-secondary:`Continual Learning` are available via the `Mammoth library <https://aimagelab.github.io/mammoth/>`_, a PyTorch library for continual learning available on GitHub at `github.com/aimagelab/mammoth <https://github.com/aimagelab/mammoth>`_.
 
-
+- :ref:`paper-rebasin` :bdg-secondary:`Model Compositionality` :bdg-success:`ICML`
 - :ref:`paper-secondorder` :bdg-secondary:`Task Arithmetic` :bdg-success:`ICLR`
 - :ref:`paper-aerabs` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`
 - :ref:`paper-cgil` :bdg-secondary:`Continual Learning` :bdg-success:`NeurIPS`

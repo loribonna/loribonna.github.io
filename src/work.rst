@@ -1,6 +1,18 @@
 Work experience
 ===============
 
+AI Engineer @ `Symboolic <https://www.symboolic.com/>`_ (Modena, Italy)
+-----------------------
+
+.. grid::
+
+    .. grid-item-card::
+
+        - Sep 2025 - Current
+        - Design and implementation of AI solutions for various applications, focusing on Natural Language Processing.
+
+In Symboolic, I am involved in the development of diverse AI platforms and solutions, leveraging my expertise in coding and deep learning. 
+
 Postdoctoral researcher
 -----------------------
 
@@ -8,7 +20,7 @@ Postdoctoral researcher
 
     .. grid-item-card::
 
-        - Jan 2024 - Current
+        - Jan 2024 - Sep 2025
         - Study of methods of Deep Learning applied to Continual Learning problems in neural networks
         - Founded by the project: *LEGO.AI: LEarning the Geometry of knOwledge in AI systems*
         - `AImageLab <https://aimagelab.ing.unimore.it/>`_ -- University of Modena and Reggio Emilia, Modena, Italy
